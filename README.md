@@ -1,9 +1,5 @@
 # Chaos-Projects
 Interdisciplinary Projects on Chaos
-## **Directories**
-* **Docs** : All Documents of ongoing projects.
-
-    
   * Choas I - Monte Carlo Integration/Randomness
   * Chaos II - Synchronization/Cryptography
   * Choas III - Artificial Neural Networks/Randomness
@@ -14,3 +10,8 @@ Interdisciplinary Projects on Chaos
   * Chaos VI - Book Chapter/Monte Carlo
   * Chaos VII - Turbulent Flows
    
+## **Directories**
+* **Docs** : All Documents of ongoing projects.
+
+    
+ 
